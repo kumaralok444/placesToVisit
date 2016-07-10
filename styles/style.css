@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+.heading {
+    color: #54c8ab;
+    text-align: center;
+}
+.img1 {
+    border-radius: 12px;
+    display: block;
+    padding: 9px;
+    width: 279px;
+}
+.con1 {
+    float: left;
+    margin-left: 286px;
+    margin-top: -193px;
+    padding: 0 22px 22px;
+    text-align: justify;
+}
+.div1 {
+    background: #cbe4de none repeat scroll 0 0;
+    border: 1px solid;
+    border-radius: 12px;
+    box-shadow: 6px 6px 13px #e1d8e9;
+}
+
